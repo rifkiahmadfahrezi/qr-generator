@@ -36,7 +36,7 @@ export default function App() {
       <main data-testid="main" className="container mx-auto px-4 flex flex-col items-center mt-[100px] min-h-dvh ">
         <div className="w-full md:max-w-[700px]">
           <div className="text-white text-center  mb-6">
-            <h1 className="font-semibold text-3xl">QYÜAR</h1>
+            <h1 className="font-semibold text-3xl">QYÜRA</h1>
             <p className="text-stone-500">Free and easiest way to create a QR code, no login required</p>
           </div>
           <FormLayout submitHandler={submitHandler}>
